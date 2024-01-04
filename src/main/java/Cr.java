@@ -569,4 +569,8 @@ class User {
     private String idNumber;
     private String phoneNumber;
 
+    public static void main(String[] args) {
+
+    }
+
 }
